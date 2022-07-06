@@ -100,3 +100,39 @@ body{
 .pic-sufferings img{
     width: 100%;
 }
+.eighth-layer{
+    text-align: center;
+    padding: 20px 150px 30px 150px;
+}
+.subscription-box{
+    display: flex;
+    background-color: rgb(184, 202, 146);
+    align-content: center;
+    justify-content: center;
+    margin: 0px 150px;
+    padding: 50px 50px 50px 50px;
+    border-radius: 10px;
+}
+.white{
+    width: 300px;
+    background-color: white;
+    padding-left: 200px;
+}
+.red{
+    width: 150px;
+    background-color: red;
+    padding-left: 40px;
+}
+.footer-center{
+    text-align: center;
+    background-color: black;
+    margin-top: 100px;
+}
+.footer-header{
+    color: red;
+    font-style: italic;
+    padding-top: 30px;
+}
+.footer-para{
+    color: white;
+}
