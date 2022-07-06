@@ -11,14 +11,16 @@ body{
 }
 .top-first{
     position: absolute;
-    top: 30%;
-    color: rgb(164, 230, 12);
+    top: 20%;
+    color: yellow;
     text-align: center;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 30px;
 }
 .top-para{
-    color: aqua;
+    color: rgb(242, 247, 247);
+    padding: 0px 150px;
+    font-size: 20px;
 }
 .donate-box{
     text-decoration: none;
@@ -29,7 +31,7 @@ body{
 }
 .second-layer{
     text-align: center;
-    padding: 70px 200px;
+    padding: 70px 350px;
 }
 .bold-header{
     font-weight: 700;
@@ -41,11 +43,18 @@ body{
 }
 .bg-white{
     background-color: rgb(199, 175, 175);
-    margin: 15px;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 5px;
 }
 .bg-red{
-    background-color: rgb(90, 42, 42);
-    margin: 15px;
+    background-color: pink;
+    color: red;
+    border: 2px solid red;
+    margin: 25px;
+    padding: 10px;
+    border-radius: 5px;
+
 }
 .forth-layer{
     text-align: center;
@@ -56,12 +65,13 @@ body{
 }
 .fifth-layer{
     text-align: center;
-    padding: 100px;
+    padding: 100px 300px 40px 300px;
 }
 .sixth-layer{
     display: flex;
     align-content: center;
     justify-content: center;
+    padding: 0px 100px;
 }
 .half-width{
     width: 30%;
@@ -83,26 +93,26 @@ body{
 }
 .seventh-layer{
     display: flex;
-    padding-top: 50px;
+    padding: 50px 0px 20px 90px;
     align-content: center;
     justify-content: center;
 }
 .p-sufferings{
     width: 50%;
-    background-color: rgb(204, 178, 144);
+    background-color: rgb(235, 215, 190);
     margin: 40px;
     border-radius: 10px;
     padding: 10px;
 }
 .pic-sufferings{
-    padding-top: 50px;
+    padding-top: 40px;
 }
 .pic-sufferings img{
-    width: 100%;
+    width: 70%;
 }
 .eighth-layer{
     text-align: center;
-    padding: 20px 150px 30px 150px;
+    padding: 70px 300px 30px 300px;
 }
 .subscription-box{
     display: flex;
