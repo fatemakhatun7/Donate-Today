@@ -67,7 +67,7 @@ body{
     width: 30%;
     margin: 10px;
     border-radius: 5px;
-    padding: 0px 5px 5px 10px;
+    padding: 10px 5px 5px 10px;
 }
 .half-width img{
     width: 40%;
@@ -80,4 +80,23 @@ body{
 }
 #rgb-color{
     background-color: rgb(137, 106, 165);
+}
+.seventh-layer{
+    display: flex;
+    padding-top: 50px;
+    align-content: center;
+    justify-content: center;
+}
+.p-sufferings{
+    width: 50%;
+    background-color: rgb(204, 178, 144);
+    margin: 40px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.pic-sufferings{
+    padding-top: 50px;
+}
+.pic-sufferings img{
+    width: 100%;
 }
